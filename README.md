@@ -87,7 +87,7 @@ RECOMMENDATIONS:
 Olojede Emmanuel Kolade
 Cybersecurity and AI Security Enthusiast | Nigeria
 Google Cybersecurity Certificate In Progress | AI Governance Certified
-Email: emmanuelkolade8@gmail.com
+Email: emmanuelolojede@cyberguard.ng
 GitHub: github.com/EKO0312
 
 ---
